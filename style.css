@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* overflow-x: hidden; */
+}
+select{
+    outline: none;
+    border: none;
+}
+input{
+    outline: none;
+    border: none;
+}
